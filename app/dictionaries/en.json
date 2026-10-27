@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "High Performance Landing Page",
+    "description": "Blazing fast Next.js landing page with 100 Lighthouse score."
+  },
+  "hero": {
+    "title": "Build Faster, Convert Better",
+    "subtitle": "Experience lightning-fast load times with Server-Side Rendering and optimized assets.",
+    "cta": "Get Started"
+  }
+}
